@@ -1,8 +1,14 @@
-## Welcome to GitHub Pages
+## Experiments in Unified Hetergeneous AI-ML-DL -> Libraries in a Microservices world!
 
-You can use the [editor on GitHub](https://github.com/kllawson/experiments-ml/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Here's the story, AI is broad field with infinite opportunities, techniques, methods and so on.  In order to make all this accessible, those in the innovation field need a framework that supports pipelines of these methods and techniques readable callable with transforms embedded.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Currently, the problem space is tightly coupled to the method and algorithm by the specificity of the data representation and the pre-processing requirements to get a computationally feasible result set.
+
+This project will use problem solving in three specific domains to build a hetergeneous pipeline of AI-ML-DL algorithms and then define a framework that supports the execution-validation of that pipeline
+
+## >>End of my project description
+
+## >>Leaving this stuff below so I can remember the editing markup/markdown
 
 ### Markdown
 
